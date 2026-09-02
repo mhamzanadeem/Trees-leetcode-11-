@@ -93,11 +93,3 @@ At node 10:
 
 ---
 
-## Checklist
-
-- [x] All 11 problems attempted
-- [x] At least 9 problems solved
-- [ ] Can write recursive DFS from memory
-- [ ] Can write queue-based BFS from memory
-- [x] Can explain in-order BST traversal
-- [x] Can explain path-through-node vs path-returned-to-parent
